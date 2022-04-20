@@ -8,3 +8,4 @@ PHPのweb-pushライブラリ([web-push-libs](https://github.com/web-push-libs/w
 - devtoolsのconsoleにendpoint等の情報が出力される
 - 必要な情報が全て揃えば、`php SendPush.php`で通知を送るphpファイルを実行
 
+> [こちら](https://zenn.dev/nnahito/articles/fd2c8b0ad0d19a) を参考にさせていただきました。
